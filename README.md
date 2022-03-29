@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waiee
 - 👀 I’m interested in Data Science, Machine Learning.
-- 🌱 I’m currently learning Bachelor in Computer Science: Data Science
+- 🌱 I’m currently learning Bachelor of Computer Science in Data Science
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me - email waiee_z@yahoo.com
 
