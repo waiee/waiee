@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waiee
 - 👀 I’m interested in Data Science, Artificial Intelligence, Machine Learning.
-- 🌱 I’m currently learning Bachelor of Computer Science in Data Science
+- 🌱 Currently learning Bachelor of Computer Science in Data Science - MMU Cyberjaya
 - 💞️ I’m looking to connect with other programmer & contribute to this community!
 - 📫 How to reach me - email waiee_z@yahoo.com
 
