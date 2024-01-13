@@ -1,7 +1,5 @@
-[![MasterHead](C:/Users/user/Downloads/photos/spider-man-miles-morales-playstation-4-playstation-5-marvel-5500x3024-7694)](https://github.com/waiee)
 <h1 align="center">Hi 👋, I'm Waiee Zainol</h1>
 <h3 align="center">A passionate Data Scientist from Malaysia</h3>
-(img align="right" alt="Coding" width="400" src="C:\Users\user\Downloads\photos\waieeprofilepic")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waiee&label=Profile%20views&color=0e75b6&style=flat" alt="waiee" /> </p>
 
